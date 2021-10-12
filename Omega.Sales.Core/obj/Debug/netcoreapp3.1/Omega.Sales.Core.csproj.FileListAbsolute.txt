@@ -1,0 +1,9 @@
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Core\bin\Debug\netcoreapp3.1\Omega.Sales.Core.deps.json
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Core\bin\Debug\netcoreapp3.1\Omega.Sales.Core.dll
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Core\bin\Debug\netcoreapp3.1\Omega.Sales.Core.pdb
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Core\obj\Debug\netcoreapp3.1\Omega.Sales.Core.csprojAssemblyReference.cache
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Core\obj\Debug\netcoreapp3.1\Omega.Sales.Core.AssemblyInfoInputs.cache
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Core\obj\Debug\netcoreapp3.1\Omega.Sales.Core.AssemblyInfo.cs
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Core\obj\Debug\netcoreapp3.1\Omega.Sales.Core.csproj.CoreCompileInputs.cache
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Core\obj\Debug\netcoreapp3.1\Omega.Sales.Core.dll
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Core\obj\Debug\netcoreapp3.1\Omega.Sales.Core.pdb

@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.WPF\\Omega.Sales.WPF.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.Domain\\Omega.Sales.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.Domain\\Omega.Sales.Domain.csproj",
+        "projectName": "Omega.Sales.Domain",
+        "projectPath": "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.Domain\\Omega.Sales.Domain.csproj",
+        "packagesPath": "C:\\Users\\zykov_ka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zykov_ka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.DirectoryServices": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.Entitys\\Omega.Sales.Entitys.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.Entitys\\Omega.Sales.Entitys.csproj",
+        "projectName": "Omega.Sales.Entitys",
+        "projectPath": "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.Entitys\\Omega.Sales.Entitys.csproj",
+        "packagesPath": "C:\\Users\\zykov_ka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.Entitys\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zykov_ka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.WPF\\Omega.Sales.WPF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.WPF\\Omega.Sales.WPF.csproj",
+        "projectName": "Omega.Sales.WPF",
+        "projectPath": "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.WPF\\Omega.Sales.WPF.csproj",
+        "packagesPath": "C:\\Users\\zykov_ka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.WPF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zykov_ka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.Domain\\Omega.Sales.Domain.csproj": {
+                "projectPath": "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.Domain\\Omega.Sales.Domain.csproj"
+              },
+              "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.Entitys\\Omega.Sales.Entitys.csproj": {
+                "projectPath": "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.Entitys\\Omega.Sales.Entitys.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

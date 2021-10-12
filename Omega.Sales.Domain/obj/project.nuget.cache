@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xtu/IGErIObtuFLyLTDxDhD7D+osp+7aQ2izEHVFGtQwdsstm3Bt7iU+/K5qKLQo/RabqNWyeNXTQ+7dog8IaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.Domain\\Omega.Sales.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zykov_ka\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\zykov_ka\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\zykov_ka\\.nuget\\packages\\system.directoryservices\\5.0.0\\system.directoryservices.5.0.0.nupkg.sha512",
+    "C:\\Users\\zykov_ka\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\zykov_ka\\.nuget\\packages\\system.io.filesystem.accesscontrol\\5.0.0\\system.io.filesystem.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\zykov_ka\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\zykov_ka\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\zykov_ka\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\zykov_ka\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

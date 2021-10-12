@@ -1,0 +1,17 @@
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Domain\bin\Debug\netcoreapp3.1\Omega.Sales.Domain.deps.json
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Domain\bin\Debug\netcoreapp3.1\Omega.Sales.Domain.dll
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Domain\bin\Debug\netcoreapp3.1\Omega.Sales.Domain.pdb
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Domain\obj\Debug\netcoreapp3.1\Omega.Sales.Domain.AssemblyInfoInputs.cache
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Domain\obj\Debug\netcoreapp3.1\Omega.Sales.Domain.AssemblyInfo.cs
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Domain\obj\Debug\netcoreapp3.1\Omega.Sales.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Domain\obj\Debug\netcoreapp3.1\Omega.Sales.Domain.dll
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Domain\obj\Debug\netcoreapp3.1\Omega.Sales.Domain.pdb
+C:\Users\nesterov_ov\source\repos\OmegaSales\Omega.Sales.Domain\bin\Debug\netcoreapp3.1\Omega.Sales.Domain.deps.json
+C:\Users\nesterov_ov\source\repos\OmegaSales\Omega.Sales.Domain\bin\Debug\netcoreapp3.1\Omega.Sales.Domain.dll
+C:\Users\nesterov_ov\source\repos\OmegaSales\Omega.Sales.Domain\bin\Debug\netcoreapp3.1\Omega.Sales.Domain.pdb
+C:\Users\nesterov_ov\source\repos\OmegaSales\Omega.Sales.Domain\obj\Debug\netcoreapp3.1\Omega.Sales.Domain.csprojAssemblyReference.cache
+C:\Users\nesterov_ov\source\repos\OmegaSales\Omega.Sales.Domain\obj\Debug\netcoreapp3.1\Omega.Sales.Domain.AssemblyInfoInputs.cache
+C:\Users\nesterov_ov\source\repos\OmegaSales\Omega.Sales.Domain\obj\Debug\netcoreapp3.1\Omega.Sales.Domain.AssemblyInfo.cs
+C:\Users\nesterov_ov\source\repos\OmegaSales\Omega.Sales.Domain\obj\Debug\netcoreapp3.1\Omega.Sales.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nesterov_ov\source\repos\OmegaSales\Omega.Sales.Domain\obj\Debug\netcoreapp3.1\Omega.Sales.Domain.dll
+C:\Users\nesterov_ov\source\repos\OmegaSales\Omega.Sales.Domain\obj\Debug\netcoreapp3.1\Omega.Sales.Domain.pdb

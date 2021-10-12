@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FJKHOVAcYoBo/dYRLJ4+/VEfWjWKdsym2k9s7nKMlEFhuNXhXQLPe3dwJvbE1N4ZCNX9xy/WMR1B1Irohdxq9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zykov_ka\\source\\repos\\Omega.Sales\\Omega.Sales.Api\\Omega.Sales.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zykov_ka\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

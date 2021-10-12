@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Omega.Sales.Core/1.0.0": {
+        "runtime": {
+          "Omega.Sales.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Omega.Sales.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

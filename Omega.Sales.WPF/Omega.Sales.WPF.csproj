@@ -1,0 +1,61 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resource\icons\admin.png" />
+    <None Remove="Resource\icons\document.png" />
+    <None Remove="Resource\icons\exit.png" />
+    <None Remove="Resource\icons\file-name.png" />
+    <None Remove="Resource\icons\file.png" />
+    <None Remove="Resource\icons\font.png" />
+    <None Remove="Resource\icons\gear.png" />
+    <None Remove="Resource\icons\help.png" />
+    <None Remove="Resource\icons\menu.png" />
+    <None Remove="Resource\icons\roles.png" />
+    <None Remove="Resource\icons\user.png" />
+    <None Remove="Resource\icons\users.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Omega.Sales.Domain\Omega.Sales.Domain.csproj" />
+    <ProjectReference Include="..\Omega.Sales.Entitys\Omega.Sales.Entitys.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resource\icons\admin.png" />
+    <Resource Include="Resource\icons\document.png" />
+    <Resource Include="Resource\icons\exit.png" />
+    <Resource Include="Resource\icons\file-name.png" />
+    <Resource Include="Resource\icons\file.png" />
+    <Resource Include="Resource\icons\font.png" />
+    <Resource Include="Resource\icons\gear.png" />
+    <Resource Include="Resource\icons\help.png" />
+    <Resource Include="Resource\icons\menu.png" />
+    <Resource Include="Resource\icons\roles.png" />
+    <Resource Include="Resource\icons\user.png" />
+    <Resource Include="Resource\icons\users.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="CustomControl\Admin\RolesControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Page Update="CustomControl\Admin\RolesControl.xaml">
+      <XamlRuntime>$(DefaultXamlRuntime)</XamlRuntime>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Command\" />
+  </ItemGroup>
+
+</Project>

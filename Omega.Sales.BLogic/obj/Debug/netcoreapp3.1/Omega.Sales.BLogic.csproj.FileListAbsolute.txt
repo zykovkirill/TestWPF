@@ -1,0 +1,8 @@
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.BLogic\bin\Debug\netcoreapp3.1\Omega.Sales.BLogic.deps.json
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.BLogic\bin\Debug\netcoreapp3.1\Omega.Sales.BLogic.dll
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.BLogic\bin\Debug\netcoreapp3.1\Omega.Sales.BLogic.pdb
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.BLogic\obj\Debug\netcoreapp3.1\Omega.Sales.BLogic.AssemblyInfoInputs.cache
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.BLogic\obj\Debug\netcoreapp3.1\Omega.Sales.BLogic.AssemblyInfo.cs
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.BLogic\obj\Debug\netcoreapp3.1\Omega.Sales.BLogic.csproj.CoreCompileInputs.cache
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.BLogic\obj\Debug\netcoreapp3.1\Omega.Sales.BLogic.dll
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.BLogic\obj\Debug\netcoreapp3.1\Omega.Sales.BLogic.pdb

@@ -1,0 +1,9 @@
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Entitys\bin\Debug\netstandard2.0\Omega.Sales.Entitys.deps.json
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Entitys\bin\Debug\netstandard2.0\Omega.Sales.Entitys.dll
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Entitys\bin\Debug\netstandard2.0\Omega.Sales.Entitys.pdb
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Entitys\obj\Debug\netstandard2.0\Omega.Sales.Entitys.csprojAssemblyReference.cache
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Entitys\obj\Debug\netstandard2.0\Omega.Sales.Entitys.AssemblyInfoInputs.cache
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Entitys\obj\Debug\netstandard2.0\Omega.Sales.Entitys.AssemblyInfo.cs
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Entitys\obj\Debug\netstandard2.0\Omega.Sales.Entitys.csproj.CoreCompileInputs.cache
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Entitys\obj\Debug\netstandard2.0\Omega.Sales.Entitys.dll
+C:\Users\nesterov_ov\source\repos\Omega.Sales\Omega.Sales.Entitys\obj\Debug\netstandard2.0\Omega.Sales.Entitys.pdb
